@@ -1,0 +1,68 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    
+}
+
+.main-container{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+}
+/* Left Section CSS*/
+#left-fifty{
+    width: 50%;
+    height: 100vh;
+    background-color: aqua;
+    padding: 5% 0;
+}
+
+.left_title{
+    width: 100%;
+    text-align: center;
+} 
+
+.images{
+    width: 100%;
+    text-align: center;
+}
+
+.images img{
+    width: 65%;
+}
+
+/* Top Right Section CSS*/
+.right-fifty{
+    width: 50%;
+    height: 100vh;
+}
+
+#right_top_frame{
+    width: 100%;
+    height: 50vh;
+}
+.prod_detail{
+    /* font-size: 40px; */
+    color: #fff;
+    margin: 10px 0;
+}
+.right_top_page{
+    background-color: red;
+    height: 100vh;
+    padding: 20px;
+    color: #fff;
+}
+/* Top Bottom Section CSS*/
+#right_bottom_frame{
+    width: 100%;
+    height: 50vh;
+    background-color: gold;
+}
+
+.right_bottom_page{
+    background-color: gold;
+    height: 100vh;
+    padding: 20px;
+    color: #1c1c1c;
+}
