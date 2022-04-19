@@ -96,6 +96,55 @@
 
             </map>
 
+
+            <!-- Image Map for Home Health Category -->
+            <map name="health" id="health">
+                <!-- Bath Soap-->
+                <a href="single.php?action=single&id=2002" target="view"><area shape="rect" coords="5, 130, 92, 172" id="2002" /></a>
+
+                <!-- Panadol Pack 24 -->
+                <a href="single.php?action=single&id=2000" target="view"><area shape="rect" coords="61, 245, 148, 295" id="2000" /></a>
+
+                <!-- Panadol Pack 50  -->
+                <a href="single.php?action=single&id=2001" target="view"><area shape="rect" coords="158, 245, 245, 295" id="2001" /></a>
+
+                <!-- Washing Powder -->
+                <a href="single.php?action=single&id=2005" target="view"><area shape="rect" coords="200, 130, 285, 172" id="2005" /></a>
+
+                <!-- Garbage Bags Small -->
+                <a href="single.php?action=single&id=2003" target="view"><area shape="rect" coords="255, 245, 340, 295" id="2003" /></a>
+
+                <!-- Garbage Bags Large-->
+                <a href="single.php?action=single&id=2004" target="view"><area shape="rect" coords="355, 245, 440, 295" id="2004" /></a>
+
+
+                <!-- Laundry -->
+                <a href="single.php?action=single&id=2006" target="view"><area shape="rect" coords="390, 130, 480, 172" id="2006" /></a>
+
+            </map>
+
+
+            <!-- Image Map for Pet Food Category -->
+            <map name="petfood" id="petfood">
+                
+                <!-- Bird Food -->
+                <a href="single.php?action=single&id=5002" target="view"><area shape="rect" coords="100, 130, 190, 172" id="5002" /></a>
+
+                <!-- Cat Food -->
+                <a href="single.php?action=single&id=5003" target="view"><area shape="rect" coords="200, 130, 285, 172" id="5003" /></a>
+
+                <!-- Dry Dog Food 1 KG -->
+                <a href="single.php?action=single&id=5001" target="view"><area shape="rect" coords="255, 245, 340, 295" id="5001" /></a>
+
+                <!-- Dry Dog Food 5 KG-->
+                <a href="single.php?action=single&id=5000" target="view"><area shape="rect" coords="355, 245, 440, 295" id="5000" /></a>
+
+
+                <!-- Fish Food -->
+                <a href="single.php?action=single&id=5004" target="view"><area shape="rect" coords="390, 130, 480, 172" id="5004" /></a>
+
+            </map>
+
         </div>
     </section>
 
