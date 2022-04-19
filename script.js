@@ -7,8 +7,6 @@ function display_menu_image(id){
     }else if( id == "freshfood"){
         display_menu_image.src = "images/fresh_food_cheddarcheese.png";
         display_menu_image.useMap = "#freshfood";
-
-        console.log(display_menu_image);
     }else if( id == "beverage"){
         display_menu_image.src = "images/beverage_coffee.png";
         display_menu_image.useMap = "#beverage";
@@ -21,11 +19,10 @@ function display_menu_image(id){
     }
 }
 
-// function hide_menu_image(id){
-//     const display_menu_image = document.getElementById("display_menu_image");
 
-//     setTimeout(function() {
-//         display_menu_image.src = "";
-//        }, 5000);
-    
-// }
+const checkout = document.getElementById("cart_checkout");
+
+checkout.addEventListener('click', function(){
+    var left_fifty = document.getElementById("right_bottom_page");
+    left_fifty.innerHTML = "Checkout Done!";
+});
