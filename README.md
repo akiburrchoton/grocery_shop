@@ -5,7 +5,7 @@
 <ul>
 <li>Dynamic Navbar using Custom Imagemap</li>
 <li>Product Detail Page</li>
-<li>Adding Multiple Products (but in a limited numebr)</li>
+<li>Adding Multiple Products (but in a limited number)</li>
 <li>Shopping Cart Page with all the products details</li>
 <li>Final Purchase</li>
 </ul>
