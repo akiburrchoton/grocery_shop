@@ -11,7 +11,7 @@ Key Features:
 </ul>
 
 
-Technical Stack:
+Technical Stack: <br>
 Frontend:
 <ul>
 <li>HTML/CSS: For structuring and styling the web pages.</li>
